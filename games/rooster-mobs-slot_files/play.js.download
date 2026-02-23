@@ -1,0 +1,48 @@
+window.onload = function() {
+
+    //gcw.gameElementsInit();
+    gcw.gameElementsInit(gameEventListener);
+
+    function gameEventListener(type, data) {
+        console.log("Game event (" + type + "): " + JSON.stringify(data));
+        if (type == gcw.api.GameEventType.HOME) {
+            var hash = window.location.hash.split('#')[1];
+            if (hash) {
+                hash = decodeURIComponent(hash);
+                if (!(hash.indexOf("http://") === 0 || hash.indexOf("https://") === 0)) {
+                    hash = "http://" + hash;
+                }
+                console.log("Redirect: " + hash);
+                window.parent.location.href = hash;
+            } else {
+                console.log("No redirect defined. Performing history.back()");
+                if (canGoBack()) {
+                    window.history.back();
+                } else {
+                    window.close();
+                }
+            }
+        }
+        /*
+        if (slotGameEvent.type == gcw.api.SlotGameEventType.REGISTER) {
+            var message = "Event REGISTER: " + slotGameEvent.data;
+            console.log(message);
+            alert(message);
+        }
+        if (slotGameEvent.type == gcw.api.SlotGameEventType.CASHIER) {
+            var message = "Event CASHIER: " + slotGameEvent.data;
+            console.log(message);
+            alert(message);
+        }
+        if (slotGameEvent.type == gcw.api.SlotGameEventType.ERROR) {
+            var message = "Event ERROR: " + slotGameEvent.data;
+            console.log(message);
+            alert(message);
+        }
+        */
+    }
+
+    function canGoBack() {
+        return window.history && window.history.length > 1;
+    }
+};
