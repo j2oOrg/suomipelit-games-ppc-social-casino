@@ -168,7 +168,7 @@ nav a:hover {
 .outer-section {
     padding-top: 5vw;
     height: 70vh;
-    background-image: linear-gradient(rgba(30, 12, 53, 0.72), rgba(30, 12, 53, 0.72)), url('/deep-space-illustration-galaxy.webp');
+    background-image: linear-gradient(rgba(30, 12, 53, 0.72), rgba(30, 12, 53, 0.72)), url('/asset-001.webp');
     background-position: center;
     background-size: cover;
     background-color: var(--bg-color);
@@ -520,7 +520,7 @@ nav a:hover {
     align-items: center;
     justify-content: center;
     padding: 2vw;
-    background-image: url('/deep-space-illustration-galaxy.webp');
+    background-image: url('/asset-001.webp');
     background-color: var(--bg-color);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -1244,7 +1244,7 @@ nav a:hover {
 }
 
 body {
-    background-image: url("/deep-space-illustration-galaxy.webp") !important;
+    background-image: url("/asset-001.webp") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1252,10 +1252,11 @@ body {
 }
 
 header {
-    background-image: linear-gradient(rgba(30, 12, 53, 0.72), rgba(30, 12, 53, 0.72)), url('/deep-space-illustration-galaxy.webp') !important;
+    background-image: linear-gradient(rgba(30, 12, 53, 0.72), rgba(30, 12, 53, 0.72)), url('/asset-001.webp') !important;
     background-size: cover;
     background-position: center;
 }
+
 
 
 
