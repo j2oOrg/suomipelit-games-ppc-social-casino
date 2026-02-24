@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a10c8f-ec9a-4f45-b071-d4d647178342" name="Changes" comment="firstsaserewr">
-      <change beforePath="$PROJECT_DIR$/contact_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/contact_files/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/bloodaxe.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/bloodaxe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/rooster-mobs-slot_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/games/rooster-mobs-slot_files/style.css" afterDir="false" />
+    <list default="true" id="49a10c8f-ec9a-4f45-b071-d4d647178342" name="Changes" comment="firstsaserewrdsfdsf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.google.cloudcode.ide_session_index": "20260223_0001",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
@@ -91,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771530600828</updated>
       <workItem from="1771530602020" duration="12460000" />
-      <workItem from="1771878539963" duration="2765000" />
+      <workItem from="1771878539963" duration="6406000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -149,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771538873890</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="firstsaserewrdsfdsf">
+      <option name="closed" value="true" />
+      <created>1771881503874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771881503874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +180,9 @@
     <MESSAGE value="firstsasadkljhxzcdf" />
     <MESSAGE value="firstsas" />
     <MESSAGE value="firstsaserewr" />
-    <option name="LAST_COMMIT_MESSAGE" value="firstsaserewr" />
+    <MESSAGE value="firstsaserewrdsf" />
+    <MESSAGE value="firstsaserewrdsfdsf" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstsaserewrdsfdsf" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
