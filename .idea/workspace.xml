@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a10c8f-ec9a-4f45-b071-d4d647178342" name="Changes" comment="firstsaserewrdsfdsf">
+    <list default="true" id="49a10c8f-ec9a-4f45-b071-d4d647178342" name="Changes" comment="firstsaserewrdsfdsffdtg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_files/age.svg" beforeDir="false" afterPath="$PROJECT_DIR$/index_files/age.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771530600828</updated>
       <workItem from="1771530602020" duration="12460000" />
-      <workItem from="1771878539963" duration="6406000" />
+      <workItem from="1771878539963" duration="8408000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -154,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771881503874</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="firstsaserewrdsfdsffdtg">
+      <option name="closed" value="true" />
+      <created>1771897030059</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771897030060</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +191,8 @@
     <MESSAGE value="firstsaserewr" />
     <MESSAGE value="firstsaserewrdsf" />
     <MESSAGE value="firstsaserewrdsfdsf" />
-    <option name="LAST_COMMIT_MESSAGE" value="firstsaserewrdsfdsf" />
+    <MESSAGE value="firstsaserewrdsfdsffdtg" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstsaserewrdsfdsffdtg" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
